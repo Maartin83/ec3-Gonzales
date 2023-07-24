@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: idat.ec3.Ec3GonzalesPoccoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.87 s - in idat.ec3.Ec3GonzalesPoccoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.558 s - in idat.ec3.Ec3GonzalesPoccoApplicationTests
